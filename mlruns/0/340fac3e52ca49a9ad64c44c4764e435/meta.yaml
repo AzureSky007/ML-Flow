@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Aaryan/Downloads/MLFLow/mlruns/0/340fac3e52ca49a9ad64c44c4764e435/artifacts
+end_time: 1727517759000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 340fac3e52ca49a9ad64c44c4764e435
+run_name: selective-crane-289
+run_uuid: 340fac3e52ca49a9ad64c44c4764e435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727517754398
+status: 3
+tags: []
+user_id: Aaryan
